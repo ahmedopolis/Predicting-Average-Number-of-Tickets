@@ -1,1 +1,1 @@
-# Linear-Regression-for-Predicting-Average-Number-of-Tickets-
+# Linear regression analysis of number of average tickets datasets
