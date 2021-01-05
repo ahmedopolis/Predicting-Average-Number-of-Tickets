@@ -1,4 +1,4 @@
-#Problem: The new client has 732 employees, with a contract value that is worth $825,000, and is in the services industry.
+# Problem: The new client has 732 employees, with a contract value that is worth $825,000, and is in the services industry.
 # Your company currently has 23 help desk resources on staff, and each resource has a capacity of 125 tickets per week.
 # The current average number of tickets that the help desk has been receiving is 2800 per week.
 # Based on the Alteryx output: 
